@@ -1,0 +1,6 @@
+wildfly-monitor=Monitor subsystem
+2	wildfly-monitor.add=Adds the subsystem
+3	wildfly-monitor.remove=Removes the subsystem
+…	
+13	wildfly-monitor.storage-adapter.remove=Removes a  storage adapter
+14	wildfly-monitor.storage-adapter.url=The url of the remote storage system
